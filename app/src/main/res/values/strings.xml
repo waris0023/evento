@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Digitaleventmanager</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="map_page_submit">Submit</string>
+    <string name="marker_description">marker_icon</string>
+    <string name="select_city">Select city</string>
+    <string name="title_activity_event">EventActivity</string>
+    <string name="title_activity_cateogaryactivity">Cateogaryactivity</string>
+    <string name="title_activity_detailedlist">detailedlist</string>
+    <string name="title_activity_my_list">MyListActivity</string>
+
+
+</resources>
